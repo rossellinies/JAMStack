@@ -28,4 +28,6 @@ function showData(stories) {
   document.querySelector(".stories").innerHTML = looped;
 }
 
-getStories();
+if(document.querySelector('.home')) {
+  getStories();
+}
