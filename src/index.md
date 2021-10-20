@@ -7,4 +7,7 @@ pageTitle: New York Today
 
 ## Articles
 
-<button>Show Stories</button>
+<div class="stories"></div>
+    <h2>Loading...</h2>
+
+<!-- <button>Show Stories</button> -->
